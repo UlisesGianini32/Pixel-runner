@@ -55,7 +55,9 @@ No requiere instalación ni plugins adicionales.
 🌐 Juega en línea
 https://ulisesgianini32.github.io/Pixel-runner/
 
-🎥 Ver video explicativo en YouTube
+🎥 Ver video explicativo
+
+https://drive.google.com/file/d/12rA0XwMefeDEKza6cZSDFV3H1UItMjck/view?usp=sharing
 
 🧾 Créditos
 
