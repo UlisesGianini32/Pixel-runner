@@ -1,6 +1,7 @@
 🕹️ Pixel Runner
 
 🎯 Propuesta del Juego 
+
 Pixel Runner es un juego web indie minimalista desarrollado en JavaScript, HTML y CSS, inspirado en los clásicos endless runners.
 El objetivo es esquivar obstáculos y mantener al personaje corriendo el mayor tiempo posible para alcanzar la mejor puntuación.
 Es un proyecto desarrollado de forma individual como parte de las prácticas de desarrollo de videojuegos web.
