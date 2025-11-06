@@ -3,7 +3,7 @@
 Pixel Runner es un juego web indie minimalista hecho en JavaScript, donde el jugador debe saltar obstáculos para sobrevivir el mayor tiempo posible.
 
 ## 🚀 Jugar en línea
-[Haz clic aquí para jugar](https://tuusuario.github.io/pixel-runner/)
+[Haz clic aquí para jugar](https://github.com/UlisesGianini32/Pixel-runner)
 
 ## 🧩 Características
 - Estilo retro pixelado.
