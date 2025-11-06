@@ -3,18 +3,37 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Pixel Runner</title>
+<title>Pixel Runner Arcade</title>
 <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-<div id="game-wrap">
-  <canvas id="game" width="800" height="300"></canvas>
-  <div id="hud">
-    <div id="score">Score: 0</div>
-    <div id="controls">Espacio = Saltar · R = Reiniciar</div>
+  <div id="menu" class="screen">
+    <div class="menu-inner">
+      <h1 class="title">PIXEL RUNNER</h1>
+      <div class="buttons">
+        <button id="playBtn" class="btn">▶ Jugar</button>
+        <button id="exitBtn" class="btn">✖ Salir</button>
+      </div>
+      <p class="hint">Presiona <strong>Espacio</strong> para saltar</p>
+    </div>
   </div>
-  <div id="footer">Desarrollado por Ulises Gianini Bahena</div>
-</div>
-<script src="script.js"></script>
+
+  <div id="goodbye" class="screen hidden">
+    <div class="menu-inner">
+      <h2>¡Hasta luego!</h2>
+      <p>Gracias por jugar.</p>
+      <button id="backBtn" class="btn">Volver al menú</button>
+    </div>
+  </div>
+
+  <canvas id="gameCanvas" width="900" height="380"></canvas>
+
+  <!-- Música arcade en loop (ejemplo: recurso libre en línea) -->
+  <audio id="bgMusic" loop crossorigin="anonymous">
+    <source src="https://cdn.pixabay.com/audio/2022/03/15/audio_96e7f6e32d.mp3" type="audio/mpeg">
+    Tu navegador no soporta audio.
+  </audio>
+
+  <script src="script.js"></script>
 </body>
 </html>
