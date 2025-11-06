@@ -1,0 +1,8 @@
+*{box-sizing:border-box;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;}
+body{margin:0;display:flex;align-items:center;justify-content:center;background:linear-gradient(180deg,#0b1220,#0f2740);height:100vh;color:#fff;}
+#game-wrap{width:820px;padding:10px;background:rgba(255,255,255,0.02);border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.6);}
+canvas{display:block;background:#071423;border-radius:4px;}
+#hud{display:flex;justify-content:space-between;padding:8px 4px;font-size:14px;opacity:0.95;}
+#score{font-weight:600;}
+#controls{opacity:0.9;font-size:13px;}
+#footer{text-align:center;margin-top:8px;font-size:12px;opacity:0.8;}

@@ -1,36 +1,22 @@
-# 🎮 Pixel Runner
+# Pixel Runner
 
-Pixel Runner es un juego web indie minimalista hecho en JavaScript, donde el jugador debe saltar obstáculos para sobrevivir el mayor tiempo posible.
+Pixel Runner es un juego web indie minimalista desarrollado en HTML, CSS y JavaScript.
 
-## 🚀 Jugar en línea
-[Haz clic aquí para jugar](https://github.com/UlisesGianini32/Pixel-runner)
+## Demo en GitHub Pages
+(Aquí va tu URL cuando publiques: `https://TU_USUARIO.github.io/pixel-runner/`)
 
-## 🧩 Características
-- Estilo retro pixelado.
-- Jugabilidad simple e intuitiva.
-- Código abierto y editable.
-- Desarrollado con HTML, CSS y JavaScript puro.
+## Cómo jugar
+- Pulsa **Espacio** para saltar.
+- Pulsa **R** para reiniciar después de morir.
+- Objetivo: sobrevivir el mayor tiempo posible y obtener la mayor puntuación.
 
-## 🧠 Controles
-- **Espacio:** Saltar
+## Estructura del repo
+- `index.html` - página principal
+- `style.css` - estilos
+- `script.js` - lógica del juego
 
-## 👨‍💻 Desarrollador
-**Ulises Gianini Bahena**
+## Propuesta (Resumen)
+Pixel Runner es un endless runner minimalista con estética pixel, ideal para prácticas profesionales y portafolio. El proyecto se entrega con código abierto y listo para desplegar en GitHub Pages.
 
----
-
-### 🛠️ Tecnologías
-- HTML5  
-- CSS3  
-- JavaScript  
-
----
-
-### 📸 Captura de pantalla
-*(inserta una imagen del juego aquí)*
-
----
-
-### 📹 Video explicativo
-(Video corto mostrando el código y cómo funciona, sin audio)
-
+## Autor
+Ulises Gianini Bahena
